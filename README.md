@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# 🛒 E-Commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application developed during my 2023–2024 internship at **Ben Younes Web**, using **React JS**, **HTML5**, **CSS3**, **Bootstrap**, and various modern web tools.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Project Overview
 
-### `npm start`
+This project was developed as part of my initiation internship at **ISET Djerba**.
+Its main goal was to learn teamwork and practice front-end development by creating a functional **e-commerce website interface**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Features
 
-### `npm test`
+* 🏠 **Home page**
+* 📞 **Contact page**
+* 🔐 **Login page**
+* 📝 **Client registration page**
+* 🎨 Responsive UI built with **Bootstrap** + custom CSS
+* ⚛️ Components-based structure using **React JS**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠 Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Frontend**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* **React JS** – main framework for building the interface
+* **HTML5** – structure of the pages
+* **CSS3** – styling and layout
+* **Bootstrap** – fast UI components
+* **JavaScript** / **JSX**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📸 Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="1000" height="3000" alt="Home page" src="https://github.com/user-attachments/assets/58ff8189-354e-488b-aeba-139270522f05" />
+<img width="1000" height="2000" alt="Contact page" src="https://github.com/user-attachments/assets/d3684d75-871b-483f-add7-ee4546852913" />
+<img width="1000" height="1000" alt="Login page" src="https://github.com/user-attachments/assets/44fab299-01fa-4ad8-9f53-82d9f854fc84" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📦 Installation & Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 1️⃣ Clone the repository
 
-### Code Splitting
+```bash
+git clone https://github.com/GhBMpr/Shop-Store.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 2️⃣ Navigate to the project folder
 
-### Analyzing the Bundle Size
+```bash
+cd Shop-Store
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 3️⃣ Install dependencies
 
-### Making a Progressive Web App
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 4️⃣ Start the development server
 
-### Advanced Configuration
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+The app will run at:
+👉 `http://localhost:3000/`
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🧑‍💻 Author
 
-### `npm run build` fails to minify
+**Ben Moussa Ghofrane**
+Intern at **Ben Younes Web** (Jan–Feb 2024)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📄 License
+
+This project is for educational purposes and can be modified or improved freely.
+
+---
+
+## ❤️ **Support**
+
+If you like the project, please ⭐ **star the repository** on GitHub — it helps a lot!
+
+
